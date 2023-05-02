@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <License id="Terms">
+        <NoHardwareCheck Value="true"/>
+        <MachineBindings>
+            <Binding Key="1" Value="00000000-0000-0000-0000-000000000000"/>
+            <Binding Key="2" Value="000000000000"/>
+        </MachineBindings>
+        <SerialHash Value="0000000000000000000000000000000000000000"/>
+        <Features>
+            <Feature Value="0"/>
+            <Feature Value="2"/>
+            <Feature Value="4"/>
+            <Feature Value="9"/>
+            <Feature Value="13"/>
+            <Feature Value="20"/>
+            <Feature Value="21"/>
+            <Feature Value="22"/>
+            <Feature Value="30"/>
+            <Feature Value="39"/>
+            <Feature Value="40"/>
+            <Feature Value="60"/>
+            <Feature Value="65"/>
+        </Features>
+        <DeveloperData Value="AQAAADAwLTAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMA=="/>
+        <SerialMasked Value="00-0000-0000-0000-0000-XXXX"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2017.2.0"/>
+        <AlwaysOnline Value="false"/>
+    </License>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <Reference URI="#Terms">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                <DigestValue>7evlfZQgrLfN6neTthtj11/RNZA=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>ZbT1J0/+CXJl6vKu2j+adhRS4TiI1h8qN6E+DwVDgcMdZ58pcMEJK8DnJUTXdAPe0+mRBlU4Ujo14V1YXJ5MVOs1bvQJTrweSnD++OTwN1O3gYnLicJxsuEHK8VaIKEYL0VR9sdzmZJPjWIK7IYs8nJynJr7/VTkdFy53cGhkFk4GRa1yXgk17zla2T9hTXUFK8jrJ8J/CwFAGelm+BZw5lFPlJMD6v9I3ypt3fuG018rLlHztscpbMEfj26iW0rHIOMKByz543fEPgdZTIZto3SDSMSZpIei/oPONEnazkEOOsuP1o/sT6zPGPSTImp8gsWdL7rK8LJatmhWZbgSw==</SignatureValue>
+    </Signature>
+</root>

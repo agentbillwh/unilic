@@ -1,0 +1,17 @@
+# github.com/beevik/etree v1.1.0
+## explicit
+github.com/beevik/etree
+# github.com/jonboulle/clockwork v0.2.2
+## explicit; go 1.13
+github.com/jonboulle/clockwork
+# github.com/moov-io/signedxml v1.0.0
+## explicit; go 1.20
+github.com/moov-io/signedxml
+# github.com/russellhaering/goxmldsig v1.4.0
+## explicit; go 1.15
+github.com/russellhaering/goxmldsig
+github.com/russellhaering/goxmldsig/etreeutils
+github.com/russellhaering/goxmldsig/types
+# golang.org/x/crypto v0.8.0
+## explicit; go 1.17
+golang.org/x/crypto/blowfish
